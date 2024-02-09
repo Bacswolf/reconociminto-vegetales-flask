@@ -1,6 +1,5 @@
-# Nombre del Proyecto
 
-## Reconocimiento de vegetales
+# Reconocimiento de vegetales
 
 ## Descripción
 
