@@ -31,6 +31,8 @@ El dataset utilizado es el [Vegetable Image Dataset](https://www.kaggle.com/data
 ## Uso
 
 - La aplicación web permite subir una imagen de un vegetal y se muestra el resultado de la predicción de la red neuronal.
+![Vegetable Recognition](/static/vista.png)
+
 
 
 
